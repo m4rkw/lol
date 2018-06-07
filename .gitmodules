@@ -1,3 +1,3 @@
 [submodule "lol2"]
-	path = ../
+	path = ../../
 	url = https://github.com/m4rkw/lol2.git
